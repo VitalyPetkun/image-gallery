@@ -1,0 +1,8 @@
+# Intellij
+.gradle/
+.idea/
+logs/
+*.iml
+README.md
+# Maven
+target/
